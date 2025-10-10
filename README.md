@@ -61,11 +61,7 @@
 
 #### 📈 Language Analytics
 
- <div align=left>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=ImChxx-cpu&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
+a
 
 
 ### 🔗 &nbsp;Connect With Me
