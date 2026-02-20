@@ -61,9 +61,11 @@
 
 #### 📈 Language Analytics
 
+#### 📈 Language Analytics
+
 <div align="left">
 
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=ImChxx-cpu&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800)]()
+[![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ImChxx-cpu&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800)]()
 
 </div>
 
