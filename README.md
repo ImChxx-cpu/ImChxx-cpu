@@ -20,6 +20,9 @@
 - Passionate about writing maintainable, scalable, and well-structured code.
 - Always striving to implement SOLID principles and design patterns in my projects.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-jess--devs.github.io-1E90FF?style=for-the-badge&logo=todotree&logoColor=white)](https://jess-devs.github.io)
+
+
 #### Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -68,12 +71,21 @@
 
 ---
 
+<div>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=jess-devs&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="" />
+</div>
+
+
+---
+
 #### Featured Projects
 
 - **Personal Projects** - Discord bots, automation tools, and experimental applications
 - **Academic Projects** - Software engineering assignments and university coursework
 
 ### Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-jessjara.dev%40proton.me-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:jessjara.dev@proton.me)
 
 ---
 
