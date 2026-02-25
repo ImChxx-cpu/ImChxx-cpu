@@ -59,25 +59,13 @@
 - 🤖 **Personal Projects** - Discord bots, automation tools, and experimental applications
 - 📚 **Academic Projects** - Software engineering assignments and university coursework
 
-#### 📈 Language Analytics
-
-#### 📈 Language Analytics
-
-<div align="left">
-
-[![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ImChxx-cpu&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800)]()
-
-</div>
-
 ### 🔗 &nbsp;Connect With Me
 
 <div align="left">
-<a href="https://instagram.com/imchxx__"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://github.com/ImChxx-cpu"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 ------
 
 Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
 
-Last Edited on: 27/08/2025
+Last Edited on: 25/02/2026
