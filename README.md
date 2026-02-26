@@ -1,93 +1,115 @@
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0066cc&reversal=true" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0a0b,50:111114,100:0a0a0b&section=header&text=Jes%C3%BAs%20Jara%20S.&fontColor=e8ff47&fontSize=42&fontAlignY=35&desc=Software%20Engineering%20Student&descColor=7c7b8a&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
+
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=E8FF47&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=30&lines=clean+code+%7C+solid+principles+%7C+design+patterns;always+learning+%7C+always+building+%7C+always+shipping" alt="Typing SVG" />
+</a>
+
+<br>
+<br>
+
+<a href="https://jess-devs.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=safari&logoColor=e8ff47" alt="Portfolio" />
+</a>
+<a href="mailto:jessjara.dev@proton.me">
+  <img src="https://img.shields.io/badge/Email-0a0a0b?style=for-the-badge&logo=protonmail&logoColor=e8ff47" alt="Email" />
+</a>
+<a href="https://github.com/jess-devs">
+  <img src="https://img.shields.io/badge/GitHub-0a0a0b?style=for-the-badge&logo=github&logoColor=e8ff47" alt="GitHub" />
+</a>
+
 </div>
 
-<h3 align="center">
-  Hi, I'm Jesús A. Jara
-</h3>
+<br>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Reach%20out%20if%20you%20need%20help!&font=Fira%20Code&center=true&width=440&height=45"></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-devs&bg_color=0a0a0b&color=e8ff47&line=e8ff47&point=7c7b8a&area=true&area_color=111114&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/ImChxx-cpu/"><img alt="" src="https://visitor-badge.laobi.icu/badge?page_id=ImChxx-cpu"></a>
-</p>
+<br>
 
-- As a Software Engineering student, I'm constantly learning and exploring new technologies to enhance my skills.
-- Ask me about software development, clean architecture, and programming best practices.
-- Currently deepening my knowledge in *[Software Architecture](https://martinfowler.com/architecture/)* and *[Clean Code](https://clean-code-developer.com/)*.
-- Passionate about writing maintainable, scalable, and well-structured code.
-- Always striving to implement SOLID principles and design patterns in my projects.
+---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jess--devs.github.io-1E90FF?style=for-the-badge&logo=todotree&logoColor=white)](https://jess-devs.github.io)
+<br>
 
+<div align="center">
 
-#### Languages
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=3000&color=7C7B8A&center=true&vCenter=true&repeat=true&width=120&height=20&lines=%E2%94%80%E2%94%80+Stack+%E2%94%80%E2%94%80" alt="Stack" />
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<br>
+<br>
 
-#### Frameworks
+**Languages**
 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0a0a0b?style=flat-square&logo=openjdk&logoColor=e8ff47)
+![C#](https://img.shields.io/badge/C%23-0a0a0b?style=flat-square&logo=csharp&logoColor=e8ff47)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0b?style=flat-square&logo=javascript&logoColor=e8ff47)
+![HTML5](https://img.shields.io/badge/HTML-0a0a0b?style=flat-square&logo=html5&logoColor=e8ff47)
+![CSS3](https://img.shields.io/badge/CSS-0a0a0b?style=flat-square&logo=css3&logoColor=e8ff47)
 
-#### Tools & Technologies
+**Frameworks**
 
-**IDEs & Development Environment**
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-**Version Control & Collaboration**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-**Design & Diagramming**
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![draw.io](https://img.shields.io/badge/draw.io-F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
-![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB.svg?style=for-the-badge&logo=excalidraw&logoColor=white)
-
-**Productivity**
-
-![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-0a0a0b?style=flat-square&logo=dotnet&logoColor=e8ff47)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0b?style=flat-square&logo=mysql&logoColor=e8ff47)
+![SQLite](https://img.shields.io/badge/SQLite-0a0a0b?style=flat-square&logo=sqlite&logoColor=e8ff47)
 
-**Operating Systems**
+**Tools**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0a0a0b?style=flat-square&logo=git&logoColor=e8ff47)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0b?style=flat-square&logo=github&logoColor=e8ff47)
+![VS Code](https://img.shields.io/badge/VS%20Code-0a0a0b?style=flat-square&logo=visualstudiocode&logoColor=e8ff47)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0a0a0b?style=flat-square&logo=visualstudio&logoColor=e8ff47)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-0a0a0b?style=flat-square&logo=intellijidea&logoColor=e8ff47)
+![Eclipse](https://img.shields.io/badge/Eclipse-0a0a0b?style=flat-square&logo=eclipseide&logoColor=e8ff47)
 
----
+**Design**
 
-<div>
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=jess-devs&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="" />
+![Figma](https://img.shields.io/badge/Figma-0a0a0b?style=flat-square&logo=figma&logoColor=e8ff47)
+![draw.io](https://img.shields.io/badge/draw.io-0a0a0b?style=flat-square&logo=diagramsdotnet&logoColor=e8ff47)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-0a0a0b?style=flat-square&logo=excalidraw&logoColor=e8ff47)
+
+**Productivity**
+
+![Notion](https://img.shields.io/badge/Notion-0a0a0b?style=flat-square&logo=notion&logoColor=e8ff47)
+
+**OS**
+
+![Linux](https://img.shields.io/badge/Linux-0a0a0b?style=flat-square&logo=linux&logoColor=e8ff47)
+![Windows](https://img.shields.io/badge/Windows-0a0a0b?style=flat-square&logo=windows&logoColor=e8ff47)
+
 </div>
 
+<br>
 
 ---
 
-#### Featured Projects
+<br>
 
-- **Personal Projects** - Discord bots, automation tools, and experimental applications
-- **Academic Projects** - Software engineering assignments and university coursework
+<div align="center">
 
-### Connect With Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=3000&color=7C7B8A&center=true&vCenter=true&repeat=true&width=120&height=20&lines=%E2%94%80%E2%94%80+Stats+%E2%94%80%E2%94%80" alt="Stats" />
 
-[![Email](https://img.shields.io/badge/Email-jessjara.dev%40proton.me-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:jessjara.dev@proton.me)
+<br>
+<br>
 
----
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=jess-devs&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=e8ff47&text_color=7c7b8a&icon_color=e8ff47&ring_color=e8ff47&include_all_commits=true&hide_title=false&hide_rank=true" width="420" alt="GitHub Stats" />
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=jess-devs&hide_border=true&bg_color=0a0a0b&title_color=e8ff47&text_color=7c7b8a&langs_count=8&layout=compact&card_width=320" width="340" alt="Top Languages" />
 
-Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)  
-Last Edited on: 25/02/2026
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jess-devs&hide_border=true&background=0a0a0b&stroke=1e1e24&ring=e8ff47&fire=e8ff47&currStreakLabel=e8ff47&sideLabels=7c7b8a&currStreakNum=f0eff4&sideNums=f0eff4&dates=7c7b8a" width="420" alt="Streak Stats" />
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a0a0b,50:111114,100:0a0a0b&section=footer" width="100%" />
+</div>
