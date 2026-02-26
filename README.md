@@ -6,9 +6,15 @@
 
 Building clean, maintainable software — one commit at a time.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-e8ff47?style=flat-square&labelColor=0a0a0b&color=0a0a0b)](https://jess-devs.github.io)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/jessjara.dev@proton.me-e8ff47?style=flat-square&labelColor=0a0a0b&color=0a0a0b)](mailto:jessjara.dev@proton.me)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/jess--devs-e8ff47?style=flat-square&labelColor=0a0a0b&color=0a0a0b)](https://github.com/jess-devs)
+<a href="https://jess-devs.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+</a>&nbsp;
+<a href="mailto:jessjara.dev@proton.me">
+  <img src="https://img.shields.io/badge/Email-0a0a0b?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+</a>&nbsp;
+<a href="https://github.com/jess-devs">
+  <img src="https://img.shields.io/badge/GitHub-0a0a0b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
