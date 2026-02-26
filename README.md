@@ -4,17 +4,11 @@
 
 **Software Engineering Student**
 
-Building clean, maintainable software — one commit at a time.
+Clean code · Solid principles · Design patterns
 
-<a href="https://jess-devs.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-</a>&nbsp;
-<a href="mailto:jessjara.dev@proton.me">
-  <img src="https://img.shields.io/badge/Email-0a0a0b?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
-</a>&nbsp;
-<a href="https://github.com/jess-devs">
-  <img src="https://img.shields.io/badge/GitHub-0a0a0b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=safari&logoColor=white)](https://jess-devs.github.io)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0a0a0b?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jessjara.dev@proton.me)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jess-devs)
 
 </div>
 
@@ -92,5 +86,5 @@ I care about **clean code**, **SOLID principles**, and **design patterns**. I'm 
 ---
 
 <div align="center">
-  <sub>clean code | solid principles | design patterns</sub>
+  <sub>Clean code · Solid principles · Design patterns</sub>
 </div>
