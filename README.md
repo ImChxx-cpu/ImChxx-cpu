@@ -1,102 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0a0b,50:111114,100:0a0a0b&section=header&text=Jes%C3%BAs%20Jara%20S.&fontColor=e8ff47&fontSize=42&fontAlignY=35&desc=Software%20Engineering%20Student&descColor=7c7b8a&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
+# Jesus Jara S.
 
-<br>
+**Software Engineering Student**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=E8FF47&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=30&lines=clean+code+%7C+solid+principles+%7C+design+patterns;always+learning+%7C+always+building+%7C+always+shipping" alt="Typing SVG" />
-</a>
+Building clean, maintainable software — one commit at a time.
 
-<br>
-<br>
-
-<a href="https://jess-devs.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=safari&logoColor=e8ff47" alt="Portfolio" />
-</a>
-<a href="mailto:jessjara.dev@proton.me">
-  <img src="https://img.shields.io/badge/Email-0a0a0b?style=for-the-badge&logo=protonmail&logoColor=e8ff47" alt="Email" />
-</a>
-<a href="https://github.com/jess-devs">
-  <img src="https://img.shields.io/badge/GitHub-0a0a0b?style=for-the-badge&logo=github&logoColor=e8ff47" alt="GitHub" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-e8ff47?style=flat-square&labelColor=0a0a0b&color=0a0a0b)](https://jess-devs.github.io)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/jessjara.dev@proton.me-e8ff47?style=flat-square&labelColor=0a0a0b&color=0a0a0b)](mailto:jessjara.dev@proton.me)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/jess--devs-e8ff47?style=flat-square&labelColor=0a0a0b&color=0a0a0b)](https://github.com/jess-devs)
 
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-devs&bg_color=0a0a0b&color=e8ff47&line=e8ff47&point=7c7b8a&area=true&area_color=111114&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
-</div>
-
-<br>
 
 ---
 
-<br>
+### About
 
-<div align="center">
+I care about **clean code**, **SOLID principles**, and **design patterns**. I'm always learning, always building, and always shipping. Currently focused on backend development with Java and C#/.NET, while exploring frontend and system design.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=3000&color=7C7B8A&center=true&vCenter=true&repeat=true&width=120&height=20&lines=%E2%94%80%E2%94%80+Stack+%E2%94%80%E2%94%80" alt="Stack" />
+---
 
-<br>
-<br>
+### Stack
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-0a0a0b?style=flat-square&logo=openjdk&logoColor=e8ff47)
-![C#](https://img.shields.io/badge/C%23-0a0a0b?style=flat-square&logo=csharp&logoColor=e8ff47)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0b?style=flat-square&logo=javascript&logoColor=e8ff47)
-![HTML5](https://img.shields.io/badge/HTML-0a0a0b?style=flat-square&logo=html5&logoColor=e8ff47)
-![CSS3](https://img.shields.io/badge/CSS-0a0a0b?style=flat-square&logo=css3&logoColor=e8ff47)
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="32" alt="Java" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" height="32" alt="C#" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="32" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="32" alt="HTML" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="32" alt="CSS" />
+</p>
 
-**Frameworks**
+**Frameworks & Databases**
 
-![.NET](https://img.shields.io/badge/.NET-0a0a0b?style=flat-square&logo=dotnet&logoColor=e8ff47)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0b?style=flat-square&logo=mysql&logoColor=e8ff47)
-![SQLite](https://img.shields.io/badge/SQLite-0a0a0b?style=flat-square&logo=sqlite&logoColor=e8ff47)
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="32" alt=".NET" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" height="32" alt="SQLite" />
+</p>
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-0a0a0b?style=flat-square&logo=git&logoColor=e8ff47)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0b?style=flat-square&logo=github&logoColor=e8ff47)
-![VS Code](https://img.shields.io/badge/VS%20Code-0a0a0b?style=flat-square&logo=visualstudiocode&logoColor=e8ff47)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0a0a0b?style=flat-square&logo=visualstudio&logoColor=e8ff47)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-0a0a0b?style=flat-square&logo=intellijidea&logoColor=e8ff47)
-![Eclipse](https://img.shields.io/badge/Eclipse-0a0a0b?style=flat-square&logo=eclipseide&logoColor=e8ff47)
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="32" alt="Git" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VS Code" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="32" alt="Visual Studio" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea" height="32" alt="IntelliJ" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=eclipse" height="32" alt="Eclipse" />
+</p>
 
-**Design**
+**Design & Productivity**
 
-![Figma](https://img.shields.io/badge/Figma-0a0a0b?style=flat-square&logo=figma&logoColor=e8ff47)
-![draw.io](https://img.shields.io/badge/draw.io-0a0a0b?style=flat-square&logo=diagramsdotnet&logoColor=e8ff47)
-![Excalidraw](https://img.shields.io/badge/Excalidraw-0a0a0b?style=flat-square&logo=excalidraw&logoColor=e8ff47)
-
-**Productivity**
-
-![Notion](https://img.shields.io/badge/Notion-0a0a0b?style=flat-square&logo=notion&logoColor=e8ff47)
-
-**OS**
-
-![Linux](https://img.shields.io/badge/Linux-0a0a0b?style=flat-square&logo=linux&logoColor=e8ff47)
-![Windows](https://img.shields.io/badge/Windows-0a0a0b?style=flat-square&logo=windows&logoColor=e8ff47)
-
-</div>
-
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=notion" height="32" alt="Notion" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="32" alt="Linux" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=windows" height="32" alt="Windows" />
+</p>
 
 ---
 
-<br>
+### Stats
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=3000&color=7C7B8A&center=true&vCenter=true&repeat=true&width=120&height=20&lines=%E2%94%80%E2%94%80+Stats+%E2%94%80%E2%94%80" alt="Stats" />
-
-<br>
-<br>
 
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=jess-devs&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=e8ff47&text_color=7c7b8a&icon_color=e8ff47&ring_color=e8ff47&include_all_commits=true&hide_title=false&hide_rank=true" width="420" alt="GitHub Stats" />
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=jess-devs&hide_border=true&bg_color=0a0a0b&title_color=e8ff47&text_color=7c7b8a&langs_count=8&layout=compact&card_width=320" width="340" alt="Top Languages" />
@@ -107,9 +75,16 @@
 
 </div>
 
-<br>
-<br>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a0a0b,50:111114,100:0a0a0b&section=footer" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-devs&bg_color=0a0a0b&color=e8ff47&line=e8ff47&point=7c7b8a&area=true&area_color=111114&hide_border=true&custom_title=Contributions" width="95%" alt="Activity Graph" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>clean code | solid principles | design patterns</sub>
 </div>
