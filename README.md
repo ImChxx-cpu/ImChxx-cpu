@@ -46,18 +46,8 @@ I care about **clean code**, **SOLID principles**, and **design patterns**. I'm 
   <img src="https://skillicons.dev/icons?i=git" height="32" alt="Git" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VS Code" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="32" alt="Visual Studio" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=idea" height="32" alt="IntelliJ" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=eclipse" height="32" alt="Eclipse" />
-</p>
-
-**Design & Productivity**
-
-<p>
   <img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=notion" height="32" alt="Notion" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" height="32" alt="Linux" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=windows" height="32" alt="Windows" />
 </p>
 
 ---
