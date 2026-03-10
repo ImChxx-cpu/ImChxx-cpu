@@ -6,9 +6,7 @@
 
 Clean code · Solid principles · Design patterns
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=safari&logoColor=white)](https://jess-devs.github.io)&nbsp;
-[![Email](https://img.shields.io/badge/Email-0a0a0b?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jessjara.dev@proton.me)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jess-devs)
+[![Portafolio](https://img.shields.io/badge/Portafolio-0a0a0b?style=for-the-badge&logo=safari&logoColor=white)](https://jess-devs.github.io)&nbsp;
 
 </div>
 
@@ -45,7 +43,6 @@ I care about **clean code**, **SOLID principles**, and **design patterns**. I'm 
 <p>
   <img src="https://skillicons.dev/icons?i=git" height="32" alt="Git" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VS Code" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=notion" height="32" alt="Notion" />&nbsp;&nbsp;
 </p>
@@ -56,8 +53,8 @@ I care about **clean code**, **SOLID principles**, and **design patterns**. I'm 
 
 <div align="center">
 
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=jess-devs&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=e8ff47&text_color=7c7b8a&icon_color=e8ff47&ring_color=e8ff47&include_all_commits=true&hide_title=false&hide_rank=true" width="420" alt="GitHub Stats" />
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=jess-devs&hide_border=true&bg_color=0a0a0b&title_color=e8ff47&text_color=7c7b8a&langs_count=8&layout=compact&card_width=320" width="340" alt="Top Languages" />
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=jess-devs&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=FFFFFF&text_color=7c7b8a&icon_color=e8ff47&ring_color=e8ff47&include_all_commits=true&hide_title=false&hide_rank=true" width="420" alt="GitHub Stats" />
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=jess-devs&hide_border=true&bg_color=0a0a0b&title_color=FFFFFF&text_color=7c7b8a&langs_count=8&layout=compact&card_width=320" width="340" alt="Top Languages" />
 
 <br>
 
@@ -69,7 +66,7 @@ I care about **clean code**, **SOLID principles**, and **design patterns**. I'm 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-devs&bg_color=0a0a0b&color=e8ff47&line=e8ff47&point=7c7b8a&area=true&area_color=111114&hide_border=true&custom_title=Contributions" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-devs&bg_color=0a0a0b&color=FFFFFF&line=e8ff47&point=7c7b8a&area=true&area_color=111114&hide_border=true&custom_title=Contributions" width="95%" alt="Activity Graph" />
 
 </div>
 
