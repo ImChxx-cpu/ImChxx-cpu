@@ -4,6 +4,8 @@
 
 **Software Engineering Student**
 
+![GitHub followers](https://img.shields.io/github/followers/jess-devs?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/jess-devs?style=social) 
+
 Clean code · Solid principles · Design patterns
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&labelColor=000000)](https://jess-devs.github.io)
@@ -20,23 +22,14 @@ I care about clean code, SOLID principles, and design patterns. Always learning,
 
 ### GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jess-devs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFBF00&ring_color=FFFFFF&include_all_commits=true&hide_rank=true" width="420" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jess-devs&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&langs_count=8&layout=compact&card_width=320" width="340" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jess-devs&hide_border=true&background=0d1117&stroke=0d1117&ring=FFB300&fire=FFBF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="420" alt="Streak Stats" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-devs&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=FFBF00&area=true&area_color=161b22&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/jess-devs">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jess-devs&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=D4AF37&text_color=E0E0E0"/>
+  </a>
+  <a href="https://github.com/jess-devs">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jess-devs&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=E0E0E0"/>
+  </a>
+</p>
 
 ---
 
